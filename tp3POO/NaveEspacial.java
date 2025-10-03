@@ -1,3 +1,4 @@
+package tp3POO;
 public class NaveEspacial {
     private String nombre;
     private int combustible;

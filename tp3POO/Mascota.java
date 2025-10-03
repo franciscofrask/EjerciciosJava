@@ -1,3 +1,4 @@
+package tp3POO;
 public class Mascota {
     private String nombre;
     private String especie;

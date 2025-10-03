@@ -1,3 +1,4 @@
+package tp3POO;
 public class Gallina {
     private int idGallina;
     private int edad;
