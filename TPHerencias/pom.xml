@@ -46,7 +46,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>kata1_vehiculos.MainKata1</mainClass>
+                    <mainClass>main.java.kata1_vehiculos.MainKata1</mainClass>
                 </configuration>
             </plugin>
         </plugins>
